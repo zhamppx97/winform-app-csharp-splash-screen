@@ -78,7 +78,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="bg.png" />
     <Content Include="favicon.ico" />
+    <Content Include="splash_screen_bg.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
